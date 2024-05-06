@@ -1,0 +1,54 @@
+commit e0320b3154bf9e2b016c909672f7c3b23d095ede
+Merge: c376da3 23d1d92
+Author: Naoki Nishiyama <231205135@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:59:55 2024 +0900
+
+    Merge branch 'main' of https://github.com/nok-2311/20230506-class
+
+commit c376da3e76573a3e175bad35e52ef8f4e11d9d16
+Author: Naoki Nishiyama <231205135@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:59:50 2024 +0900
+
+    cyanをskyblueに変更
+
+commit 71b3a576dab2e2f9e37c5a1f5de4de854304633a
+Author: Naoki Nishiyama <231205135@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:54:32 2024 +0900
+
+    colorsのblueをskyblueに変更
+
+commit 23d1d92d96890e42c738e07e853e058bf2c700ba
+Author: nok-2311 <147133829+nok-2311@users.noreply.github.com>
+Date:   Mon May 6 15:53:03 2024 +0900
+
+    colorsのcyanをskyblueに変更
+
+commit cde528749b21731c0abdb1b6512dfeba8e9047d1
+Author: Naoki Nishiyama <231205135@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:47:30 2024 +0900
+
+    さらにintervalの値を変更
+    
+    1000から3000に値を変更
+
+commit c90a18b1c742e24b35b6525f2dd1194e3913800d
+Author: Naoki Nishiyama <231205135@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:44:59 2024 +0900
+
+    intervalの400を1000に変更
+    
+    intervalの値を400から1000変更
+
+commit 595a31ad6f244d9736033a7a9afcd31ce1a197a9
+Author: Naoki Nishiyama <231205135@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:38:37 2024 +0900
+
+    ピースの色を変更
+    
+    深緑を明るい緑に変更
+
+commit 3288661a5a441c697668a2e4133bb30691a8bbe1
+Author: Naoki Nishiyama <231205135@ccmailg.meijo-u.ac.jp>
+Date:   Mon May 6 15:18:08 2024 +0900
+
+    canvas-tetrisのソースコードをインポート
